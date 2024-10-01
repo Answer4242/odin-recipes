@@ -1,0 +1,1 @@
+This project covers building a basic recipe website. It will consist of a main index page and isn't said that it will look very pretty, but it will have some basic links to a few recipes.  Eventually, it should be styled with CSS, but that will come later. 
